@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Parallel_and_Distributed_Programming",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Parallel_and_Distributed_Programming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Parallel_and_Distributed_Programming-Debug-4526b121d5012dde8c32.json",
+					"name" : "Parallel_and_Distributed_Programming",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/PRZEDMIOTY/6 semestr/Programowanie r\u00f3wnoleg\u0142e i rozproszone/Parallel-and-Distributed-Programming/cmake-build-debug",
+		"source" : "D:/PRZEDMIOTY/6 semestr/Programowanie r\u00f3wnoleg\u0142e i rozproszone/Parallel-and-Distributed-Programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

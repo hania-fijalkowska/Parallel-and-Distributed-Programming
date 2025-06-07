@@ -1,0 +1,3 @@
+D:/PRZEDMIOTY/6 semestr/Programowanie równoległe i rozproszone/Parallel-and-Distributed-Programming/cmake-build-debug/CMakeFiles/Parallel_and_Distributed_Programming.dir
+D:/PRZEDMIOTY/6 semestr/Programowanie równoległe i rozproszone/Parallel-and-Distributed-Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PRZEDMIOTY/6 semestr/Programowanie równoległe i rozproszone/Parallel-and-Distributed-Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
